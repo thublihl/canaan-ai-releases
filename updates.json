@@ -2,10 +2,18 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.2.0",
+      "type": "free",
+      "title": "GitHub integration",
+      "notes": "Connect your GitHub account (Settings → GitHub) to import your repositories as products — each one pulls in its versions (from your GitHub releases), README, language, and a Production or Development phase automatically. Open a product to read its README and manage licences. New: Issue & email a licence certificate to a customer in one click.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.2.0/Canaan-AI-Setup-1.2.0.exe",
+      "releaseDate": "2026-07-01"
+    },
+    {
       "version": "1.1.0",
       "type": "free",
       "title": "Professional documents + auto-update",
-      "notes": "Documents got a big upgrade: your business logo now appears on every PDF, invoices/quotes/receipts use a polished violet letterhead theme, and documents are stamped (PAID, OVERDUE, DRAFT, QUOTE, VALID). New: per-customer statements, a product price list, and a print preview before printing. Set your logo and SMTP email under Settings. The app now checks for updates automatically.",
+      "notes": "Business logo on every document, themed invoices/quotes/receipts, PAID/OVERDUE/DRAFT stamps, per-customer statements, product price list, print preview, SMTP email, and automatic in-app updates.",
       "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.1.0/Canaan-AI-Setup-1.1.0.exe",
       "releaseDate": "2026-07-01"
     }
