@@ -1,0 +1,13 @@
+{
+  "channel": "stable",
+  "updates": [
+    {
+      "version": "1.1.0",
+      "type": "free",
+      "title": "Professional documents + auto-update",
+      "notes": "Documents got a big upgrade: your business logo now appears on every PDF, invoices/quotes/receipts use a polished violet letterhead theme, and documents are stamped (PAID, OVERDUE, DRAFT, QUOTE, VALID). New: per-customer statements, a product price list, and a print preview before printing. Set your logo and SMTP email under Settings. The app now checks for updates automatically.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.1.0/Canaan-AI-Setup-1.1.0.exe",
+      "releaseDate": "2026-07-01"
+    }
+  ]
+}
