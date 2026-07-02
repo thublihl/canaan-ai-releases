@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.2.1",
+      "type": "free",
+      "title": "Settings buttons hotfix",
+      "notes": "Fixes buttons inside pages that did not respond — Configure SMTP, Edit company, Backup/Restore, Change PIN, Upload logo, Check for updates, and the empty-state and product-page buttons.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.2.1/Canaan-AI-Setup-1.2.1.exe",
+      "releaseDate": "2026-07-02"
+    },
+    {
       "version": "1.2.0",
       "type": "free",
       "title": "GitHub integration",
