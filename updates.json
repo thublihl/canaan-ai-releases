@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.4.0",
+      "type": "free",
+      "title": "Company docs vault + your real brand on every document",
+      "notes": "New Company docs page — keep your CIPC registration, SARS tax papers, contract templates and brand files inside the app (open, save a copy, or email them). Every PDF letterhead now carries the Canaan AI navy/gold circuit logo with the motto 'Intelligent solutions for Africa and beyond'. Email signatures build automatically from your company profile, and the address moves to Mthatha.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.4.0/Canaan-AI-Setup-1.4.0.exe",
+      "releaseDate": "2026-07-02"
+    },
+    {
       "version": "1.3.1",
       "type": "free",
       "title": "Real print dialog + send from aliases",
