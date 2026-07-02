@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.5.0",
+      "type": "free",
+      "title": "Microsoft 365 email that actually works",
+      "notes": "Microsoft retired password-based SMTP — that's why email refused to connect. The app now sends through Microsoft Graph, the modern supported way. One-time setup: register an app in your Microsoft admin portal and paste three values under Settings → Email, then hit Send test. Send-from aliases still work; plain SMTP remains for other providers.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.5.0/Canaan-AI-Setup-1.5.0.exe",
+      "releaseDate": "2026-07-02"
+    },
+    {
       "version": "1.4.0",
       "type": "free",
       "title": "Company docs vault + your real brand on every document",
