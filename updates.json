@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.3.1",
+      "type": "free",
+      "title": "Real print dialog + send from aliases",
+      "notes": "Print now opens the print dialog immediately. Email lets you choose which of your addresses to send from (add your aliases under Settings → Email), guides you when email isn't configured yet, and explains Microsoft 365 errors in plain language. New Send test button in Settings → Email.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.3.1/Canaan-AI-Setup-1.3.1.exe",
+      "releaseDate": "2026-07-02"
+    },
+    {
       "version": "1.3.0",
       "type": "free",
       "title": "Print, preview, send & save everywhere",
