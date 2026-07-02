@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.3.0",
+      "type": "free",
+      "title": "Print, preview, send & save everywhere",
+      "notes": "Every invoice, quote, receipt, licence and client statement now has one-click buttons for Print preview, Print, Send by email, and Save as PDF — right on the row, no need to open the preview first.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.3.0/Canaan-AI-Setup-1.3.0.exe",
+      "releaseDate": "2026-07-02"
+    },
+    {
       "version": "1.2.1",
       "type": "free",
       "title": "Settings buttons hotfix",
