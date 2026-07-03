@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.7.0",
+      "type": "free",
+      "title": "Ready-to-fill agreements",
+      "notes": "Create signed-ready contracts inside the app: pick a type — Service/Development, SLA, Software Licence, Maintenance, NDA or Support Retainer — fill only that type's fields, and get a branded multi-page agreement with your letterhead, tailored clauses, special conditions and signature blocks. Same preview, print, email and save buttons as invoices.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.7.0/Canaan-AI-Setup-1.7.0.exe",
+      "releaseDate": "2026-07-03"
+    },
+    {
       "version": "1.6.0",
       "type": "free",
       "title": "Your logo everywhere",
