@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.6.0",
+      "type": "free",
+      "title": "Your logo everywhere",
+      "notes": "The real Canaan AI circuit-ring logo now appears on the login screen, the sidebar, and the app's window, taskbar and desktop icons — matching the letterhead on your documents.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.6.0/Canaan-AI-Setup-1.6.0.exe",
+      "releaseDate": "2026-07-03"
+    },
+    {
       "version": "1.5.0",
       "type": "free",
       "title": "Microsoft 365 email that actually works",
