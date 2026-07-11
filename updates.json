@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.8.0",
+      "type": "free",
+      "title": "Client portal",
+      "notes": "Manage your new customer website straight from the app. The new Client portal section shows website orders (invoice them, mark paid, then deliver a licence key and installer download in one step), custom-system proposals you can read and quote, and a real-time chat with each customer — with an option to also send your reply by email. You also control the website catalogue and its sign-in-only prices from here. It connects through the same Supabase details as cloud sync, so set that up under Settings to switch it on.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.8.0/Canaan-AI-Setup-1.8.0.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.7.0",
       "type": "free",
       "title": "Ready-to-fill agreements",
