@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.9.0",
+      "type": "free",
+      "title": "Licensing & legal",
+      "notes": "Sell your software properly from the portal. New Licences tab: issue perpetual keys (locked to one device) and see every trial and licence at a glance — keys are messaged to the customer with an optional email, and delivering an order now issues the licence automatically. New Legal docs tab: upload your EULA and agreement PDFs per product and mark which must be signed before a customer can download or start a trial. Customers accept the agreements in their portal, view and download all their documents anytime, and you can see exactly who signed what.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.9.0/Canaan-AI-Setup-1.9.0.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.8.2",
       "type": "free",
       "title": "Live sync",
