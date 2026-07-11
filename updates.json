@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.8.1",
+      "type": "free",
+      "title": "Reliable updates",
+      "notes": "Fixes the update download that could freeze partway (for example, stuck at 66%). Updates now recover on their own: if the connection stalls, the download stops after 30 seconds and shows a Retry button, and retrying continues from where it left off instead of downloading the whole file again. Includes everything from v1.8.0 — the new Client portal for managing your customer website from inside the app.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.8.1/Canaan-AI-Setup-1.8.1.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.8.0",
       "type": "free",
       "title": "Client portal",
