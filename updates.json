@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.12.0",
+      "type": "free",
+      "title": "Pricing tiers",
+      "notes": "Sell each product in tiers — for example LegalBill as Solo, Small Firm, Growing and Large. A new 💲 Tiers button in the Catalogue lets you add, edit and reorder tiers, each with its own price, an optional was-price for launch discounts, a 'most popular' highlight, a feature list, and a 'by quote' option that sends customers to the proposal flow. Customers choose a tier on the website, then order and pay for that price, and the tier they picked appears on their invoice and receipt.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.12.0/Canaan-AI-Setup-1.12.0.exe",
+      "releaseDate": "2026-07-12"
+    },
+    {
       "version": "1.11.0",
       "type": "free",
       "title": "Payments: PayFast, EFT, invoices & receipts",
