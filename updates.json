@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.10.0",
+      "type": "free",
+      "title": "Real LegalBill licensing",
+      "notes": "Licence generation now happens inside the app — no separate keygen needed. When you issue or deliver a LegalBill licence, Canaan AI generates the real LegalBill key itself (Professional, 5-year update entitlement). Once a customer submits the device code their installed app shows them, the app produces the matching device-locked activation code and sends it by message and optional email, so the licence only ever works on that one device. The Licences tab shows each device code and its activation code at a glance.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.10.0/Canaan-AI-Setup-1.10.0.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.9.0",
       "type": "free",
       "title": "Licensing & legal",
