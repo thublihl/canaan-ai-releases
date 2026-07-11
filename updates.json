@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.11.0",
+      "type": "free",
+      "title": "Payments: PayFast, EFT, invoices & receipts",
+      "notes": "Take money properly. Orders paid online with PayFast land in the Orders tab already marked paid (the website confirms the payment server-to-server, so a licence can never go out unpaid). EFT payments get a Mark paid dialog that records the amount, reference and date, and every order now carries a numbered invoice and receipt — preview them, print to PDF, or email them to the customer in one click with your company branding, banking details and VAT handling. The 🔑 Deliver step stays locked until the order is paid.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.11.0/Canaan-AI-Setup-1.11.0.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.10.0",
       "type": "free",
       "title": "Real LegalBill licensing",
