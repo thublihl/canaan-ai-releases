@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.8.2",
+      "type": "free",
+      "title": "Live sync",
+      "notes": "The Client portal now updates itself automatically. New website orders, proposal requests and messages appear in the app within seconds — no need to click Refresh — and you get a notification the moment one arrives. Your cloud data also syncs quietly in the background while you work.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.8.2/Canaan-AI-Setup-1.8.2.exe",
+      "releaseDate": "2026-07-11"
+    },
+    {
       "version": "1.8.1",
       "type": "free",
       "title": "Reliable updates",
