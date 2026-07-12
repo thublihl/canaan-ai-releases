@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.13.0",
+      "type": "free",
+      "title": "Tier & seat licensing",
+      "notes": "Sell in tiers and enforce device seats. Licences you issue now carry their tier, seat allowance and the buyer's email, so LegalBill activates online on exactly the number of devices the plan allows. The Licences tab shows each licence's tier and how many device seats are used, with a Devices panel to release a seat when a firm changes machines. Receipts now email themselves automatically the moment an order is paid.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.13.0/Canaan-AI-Setup-1.13.0.exe",
+      "releaseDate": "2026-07-12"
+    },
+    {
       "version": "1.12.0",
       "type": "free",
       "title": "Pricing tiers",
