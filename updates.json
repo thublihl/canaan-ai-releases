@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.13.1",
+      "type": "free",
+      "title": "GitHub-linked installers",
+      "notes": "Link a product straight to a GitHub releases repo from the Catalogue's ⇪ installer dialog (github:owner/repo) — the website then always serves customers your newest release automatically, with the version shown on the product card. No more manual installer uploads; single-file upload stays available too.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.13.1/Canaan-AI-Setup-1.13.1.exe",
+      "releaseDate": "2026-07-12"
+    },
+    {
       "version": "1.13.0",
       "type": "free",
       "title": "Tier & seat licensing",
