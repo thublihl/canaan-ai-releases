@@ -3,9 +3,11 @@
   "updates": [
     {
       "version": "1.13.2",
-      "date": "2026-07-13",
+      "type": "free",
+      "title": "Trial licences in the Licences tab",
+      "notes": "Trial licences now show their key, bound email and device seat (trials are locked to 1 device / 1 email). Also fixes the phantom update banner from 1.13.1.",
       "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.13.2/Canaan-AI-Setup-1.13.2.exe",
-      "notes": "Trial licences show their key, email and device seat in the Licences tab; update-banner fix."
+      "releaseDate": "2026-07-13"
     },
     {
       "version": "1.13.1",
