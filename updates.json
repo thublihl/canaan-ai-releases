@@ -2,6 +2,12 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.13.2",
+      "date": "2026-07-13",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.13.2/Canaan-AI-Setup-1.13.2.exe",
+      "notes": "Trial licences show their key, email and device seat in the Licences tab; update-banner fix."
+    },
+    {
       "version": "1.13.1",
       "type": "free",
       "title": "GitHub-linked installers",
