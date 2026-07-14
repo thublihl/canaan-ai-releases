@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.14.0",
+      "type": "free",
+      "title": "Canaan AI Academy console",
+      "notes": "Run your tuition business from the app. The new 🎓 Academy tab manages the Canaan AI Academy (Grade 10–12 IT Delphi tuition): every enrolled learner with school, grade and fees paid; one-click deactivate/reactivate; schedule sessions individually or generate a whole January–November weekly series; mark attendance; upload learning material and Delphi data files per grade; and manage monthly R600 fees — record EFT/cash payments or waive a month. Online tuition payments unlock classes automatically via the website.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.14.0/Canaan-AI-Setup-1.14.0.exe",
+      "releaseDate": "2026-07-14"
+    },
+    {
       "version": "1.13.2",
       "type": "free",
       "title": "Trial licences in the Licences tab",
