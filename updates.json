@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.15.0",
+      "type": "free",
+      "title": "Academy: payments desk, classes & group chat",
+      "notes": "The Academy console grows up: EFT and cash payments learners request on the website now land in a pending queue — one click confirms the money, unlocks their month and emails a professional stamped receipt from accounts@canaanai.co.za. Fees get grade/class/month/status/method filters plus discounts per learner or for a whole grade's month. Group learners into classes (assign in bulk), schedule sessions per class, and chat with each class as a group or each learner privately — in a new Academy inbox kept separate from your business messages. Materials can now be pinned to a single session. Receipt and invoice previews gain LegalBill-style stamp options (PAID, RECEIVED, DUE, OVERDUE, DRAFT).",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.15.0/Canaan-AI-Setup-1.15.0.exe",
+      "releaseDate": "2026-07-15"
+    },
+    {
       "version": "1.14.2",
       "type": "free",
       "title": "Academy: multi-day series & Sunday",
