@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.14.1",
+      "type": "free",
+      "title": "Academy: schools & class types",
+      "notes": "The Learners list now shows each learner's province and EMIS number (captured when they choose their school from the official register at sign-up). The weekly class-series generator now lets you pick the class type — Online (Teams/Zoom) or Contact (Mthatha, with a venue) — so a whole term of classes can be preloaded in one step.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.14.1/Canaan-AI-Setup-1.14.1.exe",
+      "releaseDate": "2026-07-14"
+    },
+    {
       "version": "1.14.0",
       "type": "free",
       "title": "Canaan AI Academy console",
