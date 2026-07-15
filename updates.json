@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.14.2",
+      "type": "free",
+      "title": "Academy: multi-day series & Sunday",
+      "notes": "The Academy class-series generator now lets you pick multiple days of the week at once (e.g. Monday, Wednesday and Friday) and finally includes Sunday — one generation lays down every chosen day across your month range, all sharing the same time and venue (contact) or platform and join link (online). Pairs with the website update that lets learners edit their own school, grade and contact details.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.14.2/Canaan-AI-Setup-1.14.2.exe",
+      "releaseDate": "2026-07-15"
+    },
+    {
       "version": "1.14.1",
       "type": "free",
       "title": "Academy: schools & class types",
