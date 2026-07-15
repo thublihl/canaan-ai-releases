@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.16.0",
+      "type": "free",
+      "title": "Auto-sync + richer chats",
+      "notes": "Your data now syncs to the cloud automatically — immediately when the app opens and within seconds of every change you make (no more waiting for the background timer). Chats get friendlier too: every conversation — private learner chats, class group chats and your business inbox — now has an emoji picker 😊 and file attachments 📎 (up to 10 MB). Learners can send files back to you as well; every file is private to its conversation.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.16.0/Canaan-AI-Setup-1.16.0.exe",
+      "releaseDate": "2026-07-15"
+    },
+    {
       "version": "1.15.1",
       "type": "free",
       "title": "Update installer reliability fix",
