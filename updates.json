@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.15.1",
+      "type": "free",
+      "title": "Update installer reliability fix",
+      "notes": "Fixes the auto-updater crashing with a JavaScript error (spawn EBUSY) when your antivirus was still scanning the freshly downloaded installer — the updater now waits for the scan to finish and retries, and if it still can't start it shows a friendly Retry message instead of an error dialog. Includes everything from 1.15.0: the Academy payments desk (EFT/cash confirmations with stamped receipts from accounts@), fee filters and discounts, learner classes with group chats, class-aware scheduling, per-session materials and the separate Academy inbox.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.15.1/Canaan-AI-Setup-1.15.1.exe",
+      "releaseDate": "2026-07-15"
+    },
+    {
       "version": "1.15.0",
       "type": "free",
       "title": "Academy: payments desk, classes & group chat",
