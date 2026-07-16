@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.16.1",
+      "type": "free",
+      "title": "Email sending fix (new mail provider support)",
+      "notes": "Fixes email sending when using a modern SMTP provider (like Resend) where the SMTP username is not an email address — the app now always sends from your configured Send-as address. The Send-as field in Email settings now applies to both Microsoft 365 and Other SMTP. Recommended: switch Email settings to Other SMTP with smtp.resend.com to restore reliable sending.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.16.1/Canaan-AI-Setup-1.16.1.exe",
+      "releaseDate": "2026-07-16"
+    },
+    {
       "version": "1.16.0",
       "type": "free",
       "title": "Auto-sync + richer chats",
