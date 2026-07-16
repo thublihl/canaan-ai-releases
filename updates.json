@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.16.2",
+      "type": "free",
+      "title": "Email sending fix (new mail provider support)",
+      "notes": "Two email fixes in one: the SMTP username field now accepts non-email logins (modern providers like Resend use a token such as \"resend\" instead of an email address), and every email is always sent From your configured Send-as address — never the raw username. The Send-as field applies to both Microsoft 365 and Other SMTP. Recommended: switch Email settings to Other SMTP with smtp.resend.com to restore reliable sending.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.16.2/Canaan-AI-Setup-1.16.2.exe",
+      "releaseDate": "2026-07-16"
+    },
+    {
       "version": "1.16.1",
       "type": "free",
       "title": "Email sending fix (new mail provider support)",
