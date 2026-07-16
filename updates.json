@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.17.0",
+      "type": "free",
+      "title": "Near-instant cloud sync",
+      "notes": "Your cloud data now stays fresh to within a few seconds: background auto-sync runs every 5 seconds (was 30), any change you make locally reaches the cloud within about a second, and the Client portal picks up new website orders, proposals and customers every 5 seconds. Includes the 1.16.2 email fixes (SMTP username may be a non-email login like Resend's, and sends always use your Send-as address).",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.17.0/Canaan-AI-Setup-1.17.0.exe",
+      "releaseDate": "2026-07-16"
+    },
+    {
       "version": "1.16.2",
       "type": "free",
       "title": "Email sending fix (new mail provider support)",
