@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.18.0",
+      "type": "free",
+      "title": "Email fix, 2-second sync, Academy separation & session scheduling",
+      "notes": "Four big fixes in one. Email: the 'SSL (port 465)?' setting finally sticks — it used to silently flip back to No every time you saved, which is exactly what stopped emails from sending; the app now also switches SSL on automatically whenever the port is 465. Cloud sync: auto-sync was failing silently on every attempt because one cloud table was missing two columns — one bad table no longer stops the rest, sync now runs every 2 seconds, your edits reach the cloud within about half a second, and Settings shows a live Auto-sync status line so a problem can never hide again (run the updated supabase/schema.sql once to add the missing columns). Academy separation: learners, their fee payments, messages and receipts now live ONLY under the 🎓 Academy tab — business Orders, Messages and Customers show pure business data, and Academy → Fees gains an Online payments (PayFast) list with receipts. Sessions: the generator now repeats daily (every day or Mon–Fri), weekly (your picked days) or monthly (a date each month), and new Bulk edit / Bulk delete tools change or remove a whole day, week or month of sessions in one go — with a live count before you commit, plus a per-session delete button.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.18.0/Canaan-AI-Setup-1.18.0.exe",
+      "releaseDate": "2026-07-17"
+    },
+    {
       "version": "1.17.0",
       "type": "free",
       "title": "Near-instant cloud sync",
