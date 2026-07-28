@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.20.0",
+      "type": "free",
+      "title": "EduVault: prices and school billing",
+      "notes": "The 🏫 EduVault tab now runs the whole product from here, with two sub-tabs. 💲 Prices sets what EduVault charges schools for each module, the all-four bundle and the once-off onboarding — change a price and EduVault charges it straight away, on card checkouts and on quotations alike. 🏦 School billing is the new one, and it exists because most public schools cannot pay by card at all: the money sits in the SGB account, which usually needs two signatories, so neither a card subscription nor an instant EFT can go through. Those schools now generate a quotation for their SGB, come back with an order number, and pay by ordinary EFT. This tab is your queue of them — issue the tax invoice in one click (emailed to the school's finance contact with a PDF and your banking details on it), then mark the payment received when it reflects in the bank, which is what opens their modules. Filter by awaiting payment, paid or withdrawn; short payments are flagged before you accept them, and re-sending an invoice keeps its original number. One-time setup: run migration-012 on EduVault's database, add BILLING_ADMIN_KEY and your banking details to EduVault's payfast/config.php, then paste the same key into School billing.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.20.0/Canaan-AI-Setup-1.20.0.exe",
+      "releaseDate": "2026-07-28"
+    },
+    {
       "version": "1.18.0",
       "type": "free",
       "title": "Email fix, 2-second sync, Academy separation & session scheduling",
