@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.21.0",
+      "type": "free",
+      "title": "EduVault: School Fees on the price list",
+      "notes": "EduVault now sells a sixth product — School Fees: a receipt for every payment, a statement for every learner, and the clerk's cash-up by day, month, quarter and year — and this console had no row for it, so there was no way to set what schools are charged. 💲 Prices now lists it at R2 000 a year, and the complete bundle is R8 700: the six products added up, with no discount, as before. 🏦 School billing names it too — a school that bought School Fees used to show a raw 'finance' against its subscription on the queue, because the module list this app reads had never heard of it. Nothing else changed.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.21.0/Canaan-AI-Setup-1.21.0.exe",
+      "releaseDate": "2026-09-03"
+    },
+    {
       "version": "1.20.0",
       "type": "free",
       "title": "EduVault: prices and school billing",
