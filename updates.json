@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.23.0",
+      "type": "free",
+      "title": "EFF Nkomazi: bank details, Add all, one total",
+      "notes": "Three changes to the 🗳 EFF Nkomazi invoices. 🏦 Your Canaan AI bank account (Capitec Business, 1055538470, branch 450105) is now on every invoice, with no setup needed. You can still change it under Billing details. ➕ 'Add all items' puts your whole price list on the invoice in one click; remove any you are not charging for. 🔢 'One total for everything' lets you skip pricing line by line: the items and their descriptions are listed as Included, and you type one round figure for the lot. It fits on one page with the banking details.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.23.0/Canaan-AI-Setup-1.23.0.exe",
+      "releaseDate": "2026-09-25"
+    },
+    {
       "version": "1.22.0",
       "type": "free",
       "title": "EFF Nkomazi: invoices and receipts",
