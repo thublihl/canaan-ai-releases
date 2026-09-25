@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.22.0",
+      "type": "free",
+      "title": "EFF Nkomazi: invoices and receipts",
+      "notes": "A new 🗳 EFF Nkomazi section in the sidebar for billing the Khuluma Mhlali site (effnkomazi.org.za). Its price list covers the work done — the public portal, the campaign console, the installable app, ward maps, the database, domain, hosting, support and changes — each with a short description, and every price is yours to change. The prices in it now are suggestions only, so set yours and press Save prices first. Raise an invoice from the list and change any line's price, quantity or wording for that invoice alone. Record payments, in part or in full, for a receipt. Invoices and receipts are DOWNLOADED as PDFs in the EduVault layout, with your banking details on the invoice. Nothing is emailed from the app, so attach them to your own email. Add your bank details under Billing details before the first invoice. Also fixed: v1.21.0 still called itself 1.20.0, so it kept offering its own update.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.22.0/Canaan-AI-Setup-1.22.0.exe",
+      "releaseDate": "2026-09-25"
+    },
+    {
       "version": "1.21.0",
       "type": "free",
       "title": "EduVault: School Fees on the price list",
