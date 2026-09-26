@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.23.2",
+      "type": "free",
+      "title": "EFF Nkomazi: download button always on screen",
+      "notes": "After 'Add all items', the invoice window grew taller than a laptop screen, and the 'Save & download PDF' button ended up below the bottom edge. It looked as if there was no way to download. The buttons now stay at the bottom of the window, and only the list scrolls. The invoice list also fits a laptop screen now, so the edit and delete buttons are no longer cut off.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.23.2/Canaan-AI-Setup-1.23.2.exe",
+      "releaseDate": "2026-09-26"
+    },
+    {
       "version": "1.23.1",
       "type": "free",
       "title": "EFF Nkomazi: receipt button on the invoice",
