@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.24.0",
+      "type": "free",
+      "title": "EFF Nkomazi: invoices and receipts always one page",
+      "notes": "Every EFF Nkomazi invoice and receipt now fits on a single page, however many items it has. With a few items it looks as before, with each item's description under it. As the list grows, the rows get tighter, then the descriptions are shortened and then left out, and after that the items are laid out side by side in two, three or four columns. The text never gets too small to read. The total, your banking details and the payment reference are always on the same page.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.24.0/Canaan-AI-Setup-1.24.0.exe",
+      "releaseDate": "2026-09-26"
+    },
+    {
       "version": "1.23.2",
       "type": "free",
       "title": "EFF Nkomazi: download button always on screen",
