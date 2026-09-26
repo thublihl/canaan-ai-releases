@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.23.1",
+      "type": "free",
+      "title": "EFF Nkomazi: receipt button on the invoice",
+      "notes": "Once you record a payment on an EFF Nkomazi invoice, a ⬇ Receipt button appears on that invoice's row, next to ⬇ Invoice, and downloads the receipt as a PDF. When the invoice is paid in full, 'All receipts' lists every receipt for it. Nothing is ever emailed from this section; invoices and receipts are only downloaded.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.23.1/Canaan-AI-Setup-1.23.1.exe",
+      "releaseDate": "2026-09-26"
+    },
+    {
       "version": "1.23.0",
       "type": "free",
       "title": "EFF Nkomazi: bank details, Add all, one total",
