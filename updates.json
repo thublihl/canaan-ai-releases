@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.28.2",
+      "type": "free",
+      "title": "Updates install reliably again",
+      "notes": "Fixes updates that downloaded but never finished installing. The updater mistook the previous version's installer, still on your PC, for a half-finished download and built a broken installer from the two. Each version now downloads to its own file, old installers are cleared away, and a download is checked to be complete before it runs. Also includes everything from 1.28.1: the new icon on your desktop and taskbar, the dark title bar and the version number on screen.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.28.2/Canaan-AI-Setup-1.28.2.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.28.1",
       "type": "free",
       "title": "New icon on your desktop, dark title bar, version on screen",
