@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.28.1",
+      "type": "free",
+      "title": "New icon on your desktop, dark title bar, version on screen",
+      "notes": "The new Canaan AI icon now really appears on the desktop shortcut, the taskbar and the Start menu (the previous version still showed a default icon). The white Windows bar across the top of the window is now dark to match the app, with the minimise, maximise and close buttons still on the right. The version number now shows in that top bar, under the Canaan AI logo in the sidebar, and on the PIN screen. If the desktop shortcut still shows the old picture, sign out of Windows and back in.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.28.1/Canaan-AI-Setup-1.28.1.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.28.0",
       "type": "free",
       "title": "PIN screen HUD and a new app icon",
