@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.25.0",
+      "type": "free",
+      "title": "New studio interface",
+      "notes": "Canaan AI has a new look: a dark studio interface with cyan and gold highlights, numbered sections, a pixel-style title font and gentle animation. The dashboard now has a live activity terminal that streams your latest invoices, payments, quotes, licences and clients, plus a Quote to Renewal pipeline and a collection-rate bar. A status line at the bottom shows sync, version and time. Your data is not touched.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.25.0/Canaan-AI-Setup-1.25.0.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.24.0",
       "type": "free",
       "title": "EFF Nkomazi: invoices and receipts always one page",
