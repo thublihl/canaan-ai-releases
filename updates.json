@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.28.0",
+      "type": "free",
+      "title": "PIN screen HUD and a new app icon",
+      "notes": "The PIN screen is no longer empty. It now has a sci-fi control panel around the sign-in card: a diagnostics log that types itself out, power meters, a radar sweep with blips, an oscilloscope that jumps every time you type a PIN digit, a scrolling data stream, a clock, a ticker and comets that streak across the background. None of your business information is shown before you unlock. Canaan AI also has a new icon to match the new look. Windows can take a little while to refresh the desktop shortcut's picture.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.28.0/Canaan-AI-Setup-1.28.0.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.27.0",
       "type": "free",
       "title": "Log out, Financials vault and more sci-fi",
