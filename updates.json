@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.26.0",
+      "type": "free",
+      "title": "Dramatic motion",
+      "notes": "Canaan AI now comes alive. Unlocking plays a short boot sequence, a live circuit network moves behind the app, page titles decode from scrambled glyphs, a scan beam sweeps each screen as its panels flip up in 3D, dashboard totals roll like a slot machine, and neon runs around the highlighted tile. Cards tilt toward your mouse, forms switch on like an old CRT screen, and confetti flies when you save. Click FX in the bottom status bar to switch between Dramatic, Calm and Off.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.26.0/Canaan-AI-Setup-1.26.0.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.25.0",
       "type": "free",
       "title": "New studio interface",
