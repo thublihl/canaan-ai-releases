@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.27.0",
+      "type": "free",
+      "title": "Log out, Financials vault and more sci-fi",
+      "notes": "There is now a Log out button at the bottom of the sidebar (or press Ctrl+L). It locks the app and takes you back to the PIN screen. Amounts no longer show on the dashboard: totals, revenue and receivables are kept in a Financials vault that opens with your PIN for 3 minutes and then locks itself again. Money tiles on the Tax/VAT and EFF Nkomazi screens are hidden the same way. The look goes further too: pages jump to hyperspace, a target-lock reticle follows your mouse, a holographic globe turns behind the PIN screen, panels materialise like holograms, and the parts of each screen keep moving. You can switch on interface sounds with SFX in the bottom status bar.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.27.0/Canaan-AI-Setup-1.27.0.exe",
+      "releaseDate": "2026-10-18"
+    },
+    {
       "version": "1.26.0",
       "type": "free",
       "title": "Dramatic motion",
