@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.29.0",
+      "type": "free",
+      "title": "The website's look, in the app",
+      "notes": "Canaan AI now matches the new canaanai.co.za: a real 3D star field with soft nebula clouds and a neon grid horizon moves behind every screen as you scroll and move the mouse, the logo in the sidebar is a turning 3D coin with orbit rings, the SYS CORE in the top bar is a 3D gyroscope, all text uses the futuristic Chakra Petch font, and buttons have angled cut corners. The FX switch in the status bar still controls the motion.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.29.0/Canaan-AI-Setup-1.29.0.exe",
+      "releaseDate": "2026-10-19"
+    },
+    {
       "version": "1.28.2",
       "type": "free",
       "title": "Updates install reliably again",
