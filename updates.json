@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.29.1",
+      "type": "free",
+      "title": "A 3D logo on the PIN screen",
+      "notes": "The Canaan AI logo on the PIN screen is now a real 3D model, the same one as on the website: a glowing disc with the circuit, gold arc, HUD rings, a dotted globe and an orbiting satellite. It leans toward your mouse, spins up as you type your PIN, flashes green when you unlock and shakes red on a wrong PIN.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.29.1/Canaan-AI-Setup-1.29.1.exe",
+      "releaseDate": "2026-10-20"
+    },
+    {
       "version": "1.29.0",
       "type": "free",
       "title": "The website's look, in the app",
