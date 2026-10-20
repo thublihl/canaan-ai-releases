@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.29.3",
+      "type": "free",
+      "title": "A calmer, always-turning 3D logo",
+      "notes": "The 3D logo on the PIN screen now rotates slowly and continuously, with each part moving on its own: the logo coin turns (showing the logo on both sides), while the rings and arcs around it tumble on their own axes and the globe and satellite orbit drift separately.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.29.3/Canaan-AI-Setup-1.29.3.exe",
+      "releaseDate": "2026-10-20"
+    },
+    {
       "version": "1.29.2",
       "type": "free",
       "title": "The PIN screen logo puts on a show",
