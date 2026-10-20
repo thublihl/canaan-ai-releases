@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.29.2",
+      "type": "free",
+      "title": "The PIN screen logo puts on a show",
+      "notes": "The 3D logo on the PIN screen now performs continuously: every few seconds it spins away into the distance and whirls back in, does a somersault, warps forward and spins back, or flips like a tossed coin. The FX switch in the status bar still turns the motion off.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.29.2/Canaan-AI-Setup-1.29.2.exe",
+      "releaseDate": "2026-10-20"
+    },
+    {
       "version": "1.29.1",
       "type": "free",
       "title": "A 3D logo on the PIN screen",
