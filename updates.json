@@ -2,6 +2,14 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.30.0",
+      "type": "free",
+      "title": "Real 3D logo and SYS CORE",
+      "notes": "The logo at the top of the sidebar and the SYS CORE in the top bar are now real lit 3D models, the same as on canaanai.co.za: a chrome-edged Canaan AI coin with its gold arc and circuit turning inside a gold orbit, and a gyroscope of gold, cyan and steel rings spinning round a glowing core. The FX switch still stops the motion.",
+      "url": "https://github.com/thublihl/canaan-ai-releases/releases/download/v1.30.0/Canaan-AI-Setup-1.30.0.exe",
+      "releaseDate": "2026-10-20"
+    },
+    {
       "version": "1.29.3",
       "type": "free",
       "title": "A calmer, always-turning 3D logo",
